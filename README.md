@@ -1,3 +1,3 @@
 ## Countdown Timer
-• future date
-• timer
++ future date
++ timer
